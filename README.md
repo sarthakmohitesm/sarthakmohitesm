@@ -1,4 +1,5 @@
 <!-- ANIMATIONS BEGIN -->
+<body>
 <style>
 @keyframes slideInFromTop {
   from { opacity: 0; transform: translateY(-30px); }
@@ -41,7 +42,7 @@ img { animation: bounce 2s ease-in-out infinite; transition: all 0.3s ease; }
 img:hover { transform: scale(1.25) rotate(8deg); filter: brightness(1.3) drop-shadow(0 0 10px #ff6b6b); }
 </style>
 <!-- ANIMATIONS END -->
-
+</body>
 <div class="main-header">
 
 # 💫 About Me
