@@ -1,6 +1,4 @@
-<!-- ANIMATIONS BEGIN -->
-<body>
-<style>
+<!--
 @keyframes slideInFromTop {
   from { opacity: 0; transform: translateY(-30px); }
   to { opacity: 1; transform: translateY(0); }
@@ -25,10 +23,6 @@
   0%, 100% { opacity: 1; }
   50% { opacity: 0.6; }
 }
-@keyframes shimmer {
-  0% { background-position: -1000px 0; }
-  100% { background-position: 1000px 0; }
-}
 @keyframes bounce {
   0%, 100% { transform: translateY(0); }
   50% { transform: translateY(-15px); }
@@ -40,9 +34,7 @@ h1 { animation: slideInFromTop 1s ease-out, glow 2s ease-in-out infinite; }
 .stats-section { animation: slideInFromTop 1.8s ease-out, pulse 3s ease-in-out infinite; }
 img { animation: bounce 2s ease-in-out infinite; transition: all 0.3s ease; }
 img:hover { transform: scale(1.25) rotate(8deg); filter: brightness(1.3) drop-shadow(0 0 10px #ff6b6b); }
-</style>
-<!-- ANIMATIONS END -->
-</body>
+-->
 <div class="main-header">
 
 # 💫 About Me
