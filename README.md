@@ -1,3 +1,4 @@
+<!-- ANIMATIONS BEGIN -->
 <style>
 @keyframes slideInFromTop {
   from { opacity: 0; transform: translateY(-30px); }
@@ -11,13 +12,35 @@
   from { opacity: 0; transform: translateX(-30px); }
   to { opacity: 1; transform: translateX(0); }
 }
-.main-header { animation: slideInFromTop 1s ease-out; }
+@keyframes glow {
+  0%, 100% { text-shadow: 0 0 10px rgba(255, 107, 107, 0.5); }
+  50% { text-shadow: 0 0 20px rgba(255, 107, 107, 1); }
+}
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+@keyframes shimmer {
+  0% { background-position: -1000px 0; }
+  100% { background-position: 1000px 0; }
+}
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-15px); }
+}
+h1 { animation: slideInFromTop 1s ease-out, glow 2s ease-in-out infinite; }
 .about-section { animation: fadeInUp 1.2s ease-out; }
-.contact-section { animation: slideInFromLeft 1.4s ease-out; }
+.contact-section { animation: slideInFromLeft 1.4s ease-out, float 3s ease-in-out infinite; }
 .tech-section { animation: fadeInUp 1.6s ease-out; }
-.stats-section { animation: slideInFromTop 1.8s ease-out; }
-img:hover { transform: scale(1.15) rotate(3deg); transition: all 0.3s ease; filter: brightness(1.2); }
+.stats-section { animation: slideInFromTop 1.8s ease-out, pulse 3s ease-in-out infinite; }
+img { animation: bounce 2s ease-in-out infinite; transition: all 0.3s ease; }
+img:hover { transform: scale(1.25) rotate(8deg); filter: brightness(1.3) drop-shadow(0 0 10px #ff6b6b); }
 </style>
+<!-- ANIMATIONS END -->
 
 <div class="main-header">
 
