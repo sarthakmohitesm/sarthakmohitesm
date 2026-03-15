@@ -45,10 +45,10 @@ img:hover { transform: scale(1.25) rotate(8deg); filter: brightness(1.3) drop-sh
 
 **Full-stack developer** building scalable, user-centric web applications with clean code.
 
-🔭 **Currently:** Improving full-stack skills | Building scalable UI/UX | System architecture  
-👯 **Collaborate on:** Open source projects | Tech innovations | Real-world products  
-🤝 **Learning:** Backend patterns | Cloud-native systems | Distributed architecture  
-💬 **Expertise:** Production web apps | Modern frameworks | Performance optimization  
+🔭 **Currently:** Improving full-stack skills | Building scalable UI/UX | System architecture
+👯 **Collaborate on:** Open source projects | Tech innovations | Real-world products
+🤝 **Learning:** Backend patterns | Cloud-native systems | Distributed architecture
+💬 **Expertise:** Production web apps | Modern frameworks | Performance optimization
 ⚡ **Focus:** Elegant solutions | Intuitive UI | Maintainable code
 
 </div>
