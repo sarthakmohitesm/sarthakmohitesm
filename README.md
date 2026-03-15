@@ -43,32 +43,13 @@ img:hover { transform: scale(1.25) rotate(8deg); filter: brightness(1.3) drop-sh
 
 <div class="about-section">
 
-I'm a passionate full-stack developer committed to building scalable, user-centric web applications with clean code and modern technologies.
+**Full-stack developer** building scalable, user-centric web applications with clean code.
 
-**🔭 Currently Working On:**
-- Improving full-stack web development capabilities
-- Building scalable UI/UX for modern applications
-- System architecture and backend optimization
-
-**👯 Open to Collaboration:**
-- Open source web development projects
-- Innovative tech solutions and hackathons
-- Real-world product development
-
-**🤝 Looking to Learn:**
-- Advanced backend development patterns
-- Scalable system architecture
-- Cloud-native and distributed systems
-
-**💬 Expertise:**
-- Converting concepts into production web applications
-- Full-stack development with modern frameworks
-- Performance optimization and clean code practices
-
-**⚡ Focus Areas:**
-- Building elegant solutions to complex technical problems
-- Creating intuitive user interfaces
-- Writing maintainable and scalable code
+🔭 **Currently:** Improving full-stack skills | Building scalable UI/UX | System architecture  
+👯 **Collaborate on:** Open source projects | Tech innovations | Real-world products  
+🤝 **Learning:** Backend patterns | Cloud-native systems | Distributed architecture  
+💬 **Expertise:** Production web apps | Modern frameworks | Performance optimization  
+⚡ **Focus:** Elegant solutions | Intuitive UI | Maintainable code
 
 </div>
 
