@@ -3,7 +3,7 @@
 
 # 💫 About Me
 
-</div>
+</div> 
 
 <div class="about-section">
 
