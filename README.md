@@ -128,7 +128,7 @@ const sarthak = {
 
 <div align="center">
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Programming%20is%2010%25%20writing%20code%20and%2090%25%20understanding%20why%20it%20doesn%27t%20work.&author=Unknown)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Make%20it%20work%2C%20make%20it%20right%2C%20make%20it%20fast.&author=Kent%20Beck)
 
 </div>
 
