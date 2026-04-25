@@ -82,6 +82,21 @@ const sarthak = {
 
 <br>
 
+## 💻 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sarthakmohitesm/Domain-computers">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakmohitesm&repo=Domain-computers&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=6366F1&text_color=C9D1D9" />
+</a>
+<a href="https://github.com/sarthakmohitesm/inventory-management-">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarthakmohitesm&repo=inventory-management-&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=6366F1&text_color=C9D1D9" />
+</a>
+
+</div>
+
+<br>
+
 ## 📊 Performance Metrics
 
 <div align="center">
