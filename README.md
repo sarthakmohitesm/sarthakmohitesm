@@ -25,32 +25,33 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 `System.about()`
+### 🧬 `whoami`
 
 ```js
-class Developer {
-  name     = "Sarthak Mohite";
-  title    = "Full-Stack Developer";
-  focus    = ["Scalable UI/UX", 
-              "System Architecture",
-              "Cloud-Native Systems"];
-  learning = ["Distributed Systems",
-              "Backend Patterns"];
-}
+const sarthak = {
+  name     : "Sarthak Mohite",
+  title    : "Full-Stack Developer",
+  code     : ["JS", "TS", "Python",
+              "C++", "Java", "PHP"],
+  tools    : ["React", "Next.js",
+              "Node", "Django", "AWS"],
+  motto    : "Ship fast, ship clean."
+};
 ```
 
 </td>
 <td width="50%" valign="top">
 
-### 📡 `Signal.ping()`
+### ⚡ `status --verbose`
 
-&nbsp;
-
-🔭 **Building** — Production-grade web applications  
-🧩 **Exploring** — System design & microservices  
-🤝 **Open to** — Open source & tech collaborations  
-⚡ **Driven by** — Elegant code & intuitive interfaces  
-🎯 **Goal** — Engineer software that scales  
+```yaml
+🔭 Building:  Scalable web apps
+🧩 Exploring: System design
+🤝 Open to:   OSS collabs
+📚 Learning:  Distributed systems
+🎯 Goal:      Software that scales
+⚙️ Mode:      Always shipping
+```
 
 </td>
 </tr>
