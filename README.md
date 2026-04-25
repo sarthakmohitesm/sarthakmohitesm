@@ -128,7 +128,7 @@ const sarthak = {
 
 <div align="center">
 
-> *"Programming is 10% writing code and 90% understanding why it doesn't work."*
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true&quote=Programming%20is%2010%25%20writing%20code%20and%2090%25%20understanding%20why%20it%20doesn%27t%20work.&author=Unknown)
 
 </div>
 
