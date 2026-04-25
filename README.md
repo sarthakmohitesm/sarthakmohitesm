@@ -21,40 +21,48 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🧬 `System.about()`
+<div align="center">
 
 ```js
-class Developer {
-  name     = "Sarthak Mohite";
-  title    = "Full-Stack Developer";
-  focus    = ["Scalable UI/UX", 
-              "System Architecture",
-              "Cloud-Native Systems"];
-  learning = ["Distributed Systems",
-              "Backend Patterns"];
-}
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+//  ⚡ sarthak.dev — developer profile loaded
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+const sarthak = {
+    name       : "Sarthak Mohite",
+    title      : "Full-Stack Developer",
+    stack      : ["React", "Next.js", "Node.js", "Python", "TypeScript"],
+    focus      : ["Scalable UI/UX", "System Architecture", "Cloud-Native"],
+    learning   : ["Distributed Systems", "Backend Design Patterns"],
+    motto      : "Write code that your future self will thank you for."
+};
 ```
 
-</td>
-<td width="50%" valign="top">
+</div>
 
-### 📡 `Signal.ping()`
+<br>
 
-&nbsp;
+<div align="center">
 
-🔭 **Building** — Production-grade web applications  
-🧩 **Exploring** — System design & microservices  
-🤝 **Open to** — Open source & tech collaborations  
-⚡ **Driven by** — Elegant code & intuitive interfaces  
-🎯 **Goal** — Engineer software that scales  
+<a href="#">
+  <img src="https://img.shields.io/badge/🔭_BUILDING-Production--grade_web_apps-00C896?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/🧩_EXPLORING-System_design_&_microservices-6366F1?style=for-the-badge&labelColor=0D1117" />
+</a>
+<br>
+<a href="#">
+  <img src="https://img.shields.io/badge/🤝_OPEN_TO-Open_source_&_collaborations-00C896?style=for-the-badge&labelColor=0D1117" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/⚡_DRIVEN_BY-Elegant_code_&_clean_UI-6366F1?style=for-the-badge&labelColor=0D1117" />
+</a>
+<br>
+<a href="#">
+  <img src="https://img.shields.io/badge/🎯_GOAL-Engineer_software_that_scales-00C896?style=for-the-badge&labelColor=0D1117" />
+</a>
 
-</td>
-</tr>
-</table>
+</div>
 
 <br>
 
