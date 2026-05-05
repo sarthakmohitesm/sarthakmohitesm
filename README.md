@@ -86,15 +86,15 @@ const sarthak = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sarthakmohitesm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=6366F1&text_color=C9D1D9&ring_color=00C896" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sarthakmohitesm&hide_border=true&background=0D1117&ring=00C896&fire=6366F1&currStreakLabel=00C896&sideLabels=C9D1D9&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" />
+<img width="49%" src="https://github-readme-stats.shion.dev/api?username=sarthakmohitesm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00C896&icon_color=6366F1&text_color=C9D1D9&ring_color=00C896" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=sarthakmohitesm&hide_border=true&background=0D1117&ring=00C896&fire=6366F1&currStreakLabel=00C896&sideLabels=C9D1D9&currStreakNum=E2E8F0&sideNums=E2E8F0&dates=94A3B8" />
 
 </div>
 
 <div align="center">
 
 <img width="58%" src="https://github-readme-activity-graph.vercel.app/graph?username=sarthakmohitesm&hide_border=true&bg_color=0D1117&color=00C896&line=6366F1&point=E2E8F0&area=true&area_color=6366F130" />
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakmohitesm&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=C9D1D9&layout=compact&langs_count=8" />
+<img width="40%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=sarthakmohitesm&hide_border=true&bg_color=0D1117&title_color=00C896&text_color=C9D1D9&layout=compact&langs_count=8" />
 
 </div>
 
